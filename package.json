@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "zhang <iyunx@qq.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "vite": "^3.0.4"
+  }
 }
